@@ -1,0 +1,8 @@
+{
+  "name": "bilinearlabs",
+  "version": "0.1.0",
+  "description": "Query EVM blockchain events with SQL through BilinearLabs. Covers BYOABI signatures, ClickHouse quirks, the full CRUD API for queries and dashboards, and a minimal inline dashboard template.",
+  "author": { "name": "bilinearlabs" },
+  "repository": "https://github.com/bilinearlabs/agents",
+  "license": "MIT"
+}

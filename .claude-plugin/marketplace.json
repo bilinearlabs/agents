@@ -1,0 +1,14 @@
+{
+  "name": "agents",
+  "owner": {
+    "name": "bilinearlabs",
+    "url": "https://bilinearlabs.io"
+  },
+  "plugins": [
+    {
+      "name": "bilinearlabs",
+      "source": "./bilinearlabs",
+      "description": "Query EVM blockchain events with SQL through BilinearLabs. BYOABI signatures, ClickHouse quirks, full CRUD API for queries and dashboards."
+    }
+  ]
+}
